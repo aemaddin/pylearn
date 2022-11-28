@@ -4,7 +4,7 @@ Python Leaning By Examples
 ## Tasks
 
 - [ ] Create User Class
-create a new user calss to hold attributes and functions that will help us to deal easily with this model.
+create a new user class to hold attributes and functions that will help us to deal easily with this model.
 
 ### Add user attributes
 - [ ] first_name

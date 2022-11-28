@@ -1,6 +1,8 @@
 import User
 
+user = User.search(3)
 
-amr = User.create(first_name="Amr", last_name="Ahmed")
-
-print(amr.last_name)
+if user:
+    print(user.first_name)
+else:
+    print('user not found')
